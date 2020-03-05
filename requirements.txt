@@ -10,5 +10,4 @@ google-api-python-client==1.7.11
 google-auth==1.11.2
 google-auth-httplib2==0.0.3
 googletrans==2.4.0
-pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz
 en-core-web-sm==2.2.0
