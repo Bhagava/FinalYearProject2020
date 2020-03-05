@@ -1,18 +1,8 @@
 from flask import Flask, render_template,request, redirect, url_for
 from googletrans import Translator
-import pandas as pd
-import urllib.request as urllib
-import json
-import numpy as np
-from bs4 import BeautifulSoup
-import spacy
 import nltk
 import nltk.data
-import collections
-import yesno
-import json
 import en_core_web_sm
-from bs4 import BeautifulSoup
 from googleapiclient.discovery import build
 my_api_key = "AIzaSyBc40wiCnh5Wk3e8jGoeHW3DJUWzYQp4cw"
 my_cse_id = "015972826494497401252:if2nuu7ieqt"
